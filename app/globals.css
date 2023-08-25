@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-style button{
+    background-color: #0C4A6E;
+}
